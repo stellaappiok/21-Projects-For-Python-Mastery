@@ -32,7 +32,7 @@ This repo is a public commitment to mastering Python through projects — the on
 
 | #   | Project                    | Difficulty  | Status | Key Concepts                            |
 | --- | -------------------------- | ----------- | ------ | --------------------------------------- |
-| 01  | Quiz Game                  | 🟢 Easy     | ⏳     | Functions, lists, loops                 |
+| 01  | Quiz Game                  | 🟢 Easy     | ✅     | Functions, lists, loops                 |
 | 02  | Number Guessing Game       | 🟢 Easy     | ⏳     | Random, conditionals, while loops       |
 | 03  | Rock Paper Scissors        | 🟢 Easy     | ⏳     | Functions, user input, logic            |
 | 04  | Choose Your Own Adventure  | 🟢 Easy     | ⏳     | Nested conditionals, storytelling logic |
