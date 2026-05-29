@@ -73,3 +73,7 @@ if play == "Yes":
 else:
     print("Thank You!")
     quit
+
+percentage = Score / 5 * 100
+
+print (f"Your final score was {Score}/5, that is {percentage}%")
