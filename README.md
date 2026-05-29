@@ -32,7 +32,7 @@ This repo is a public commitment to mastering Python through projects — the on
 
 | #   | Project                    | Difficulty  | Status | Key Concepts                            |
 | --- | -------------------------- | ----------- | ------ | --------------------------------------- |
-| 01  | Quiz Game                  | 🟢 Easy     | ⏳     | Functions, lists, loops                 |
+| 01  | Quiz Game                  | 🟢 Easy     | ✅     | Functions, lists, loops                 |
 | 02  | Number Guessing Game       | 🟢 Easy     | ⏳     | Random, conditionals, while loops       |
 | 03  | Rock Paper Scissors        | 🟢 Easy     | ⏳     | Functions, user input, logic            |
 | 04  | Choose Your Own Adventure  | 🟢 Easy     | ⏳     | Nested conditionals, storytelling logic |
@@ -94,11 +94,11 @@ Every project folder has its own `README.md` with:
 
 ## 📅 Daily Log
 
-| Day   | Date | Project             | Notes |
-| ----- | ---- | ------------------- | ----- |
-| Day 1 | —    | Quiz Game           | —     |
-| Day 2 | —    | Number Guessing     | —     |
-| Day 3 | —    | Rock Paper Scissors | —     |
+| Day   | Date | Project             |
+| ----- | ---- | ------------------- | 
+| Day 1 | 28/05/26   | Quiz Game           | 
+| Day 2 | —    | Number Guessing     | 
+| Day 3 | —    | Rock Paper Scissors |
 
 _Updated daily as each project is completed._
 
@@ -114,7 +114,7 @@ _Updated daily as each project is completed._
 
 ## ⭐ Support
 
-If this repo inspires you to start your own Python journey — give it a star. It costs nothing and means everything. 🐍
+If this repo inspires you to start your own Python journey , give it a star. It costs nothing and means everything. 🐍
 
 ---
 
