@@ -5,7 +5,7 @@
 ![Progress](https://img.shields.io/badge/Projects%20Completed-0%2F21-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/python-mastery-journey?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/appiokstella/21-Projects-For-Python-Masterystyle=flat)
 
 ---
 
