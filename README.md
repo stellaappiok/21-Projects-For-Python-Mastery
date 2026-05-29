@@ -2,7 +2,7 @@
 
 > _From beginner to builder — one project at a time._
 
-![Progress](https://img.shields.io/badge/Projects%20Completed-0%2F21-red?style=flat)
+![Progress](https://img.shields.io/badge/Projects%20Completed-1%2F21-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/appiokstella/21-Projects-For-Python-Mastery?style=flat)
