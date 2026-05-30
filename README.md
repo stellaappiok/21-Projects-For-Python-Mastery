@@ -21,7 +21,7 @@ This repo is inspired by **Tech With Tim's** 9-hour Python project series.
 
 Python is the foundation of everything in AI, machine learning, computer vision, and robotics. Before building the big things, the fundamentals have to be solid.
 
-This repo is a public commitment to mastering Python through projects — the only way that actually works.
+This repo is a public commitment to mastering Python through projects the only way that actually works.
 
 ---
 
@@ -111,7 +111,7 @@ _Updated daily as each project is completed._
 
 ## ⭐ Support
 
-If this repo inspires you to start your own Python journey , give it a star. It costs nothing and means everything. 🐍
+If this repo inspires you to start your own Python journey , give it a star. 
 
 ---
 
