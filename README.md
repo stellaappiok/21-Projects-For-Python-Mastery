@@ -2,7 +2,7 @@
 
 > _From beginner to builder — one project at a time._
 
-![Progress](https://img.shields.io/badge/Projects%20Completed-1%2F21-red?style=flat)
+![Progress](https://img.shields.io/badge/Projects%20Completed-2%2F21-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/appiokstella/21-Projects-For-Python-Mastery?style=flat)
@@ -30,7 +30,7 @@ This repo is a public commitment to mastering Python through projects the only w
 | #   | Project                    | Difficulty  | Status | Key Concepts                            |
 | --- | -------------------------- | ----------- | ------ | --------------------------------------- |
 | 01  | Quiz Game                  | 🟢 Easy     | ✅     | Functions, lists, loops                 |
-| 02  | Number Guessing Game       | 🟢 Easy     | ⏳     | Random, conditionals, while loops       |
+| 02  | Number Guessing Game       | 🟢 Easy     | ✅     | Random, conditionals, while loops       |
 | 03  | Rock Paper Scissors        | 🟢 Easy     | ⏳     | Functions, user input, logic            |
 | 04  | Choose Your Own Adventure  | 🟢 Easy     | ⏳     | Nested conditionals, storytelling logic |
 | 05  | Password Manager           | 🟡 Medium   | ⏳     | File I/O, encryption, Fernet            |
