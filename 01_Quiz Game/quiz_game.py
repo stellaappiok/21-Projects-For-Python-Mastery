@@ -46,7 +46,7 @@ if play == "Yes":
     print("")
     q4 = input("What does GPU stand for? - ").lower()
 
-    if q1 == "graphics processing unit":
+    if q4 == "graphics processing unit":
         Score += 1
         print("Correct!")
         print(f"Score = {Score}")

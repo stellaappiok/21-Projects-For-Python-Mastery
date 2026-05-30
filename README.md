@@ -2,18 +2,15 @@
 
 > _From beginner to builder — one project at a time._
 
-![Progress](https://img.shields.io/badge/Projects%20Completed-0%2F21-red?style=flat)
+![Progress](https://img.shields.io/badge/Projects%20Completed-1%2F21-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/python-mastery-journey?style=flat)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/appiokstella/21-Projects-For-Python-Mastery?style=flat)
 ---
 
 ## 👩🏾‍💻 About This Repo
 
 A hands-on Python learning journey built through **21 real projects** — from beginner games to advanced scripting and automation. Every project is written from scratch, documented with honest reflections, and pushed daily.
-
-No copy-paste. No shortcuts. Just growth.
 
 This repo is inspired by **Tech With Tim's** 9-hour Python project series.
 📺 Original video: https://www.youtube.com/watch?v=8ext9G7xspg
@@ -24,7 +21,7 @@ This repo is inspired by **Tech With Tim's** 9-hour Python project series.
 
 Python is the foundation of everything in AI, machine learning, computer vision, and robotics. Before building the big things, the fundamentals have to be solid.
 
-This repo is a public commitment to mastering Python through projects — the only way that actually works.
+This repo is a public commitment to mastering Python through projects the only way that actually works.
 
 ---
 
@@ -114,7 +111,7 @@ _Updated daily as each project is completed._
 
 ## ⭐ Support
 
-If this repo inspires you to start your own Python journey , give it a star. It costs nothing and means everything. 🐍
+If this repo inspires you to start your own Python journey , give it a star. 
 
 ---
 
