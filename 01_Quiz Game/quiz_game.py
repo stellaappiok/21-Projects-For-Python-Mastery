@@ -1,6 +1,3 @@
-from tkinter import YES
-
-
 print("Welcome to Quiz School !")
 
 play = input("Do you want to play this quiz (Yes/No)? - ").capitalize()
