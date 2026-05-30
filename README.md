@@ -93,8 +93,8 @@ Every project folder has its own `README.md` with:
 
 | Day   | Date | Project             |
 | ----- | ---- | ------------------- | 
-| Day 1 | 28/05/26   | Quiz Game           | 
-| Day 2 | —    | Number Guessing     | 
+| Day 1 | 29/05/26   | Quiz Game           | 
+| Day 2 | 30/05/26   | Number Guessing     | 
 | Day 3 | —    | Rock Paper Scissors |
 
 _Updated daily as each project is completed._
