@@ -33,23 +33,23 @@ This repo is a public commitment to mastering Python through projects the only w
 | 02  | Number Guessing Game       | 🟢 Easy     | ✅     | Random, conditionals, while loops       |
 | 03  | Rock Paper Scissors        | 🟢 Easy     | ⏳     | Functions, user input, logic            |
 | 04  | Choose Your Own Adventure  | 🟢 Easy     | ⏳     | Nested conditionals, storytelling logic |
-| 05  | Password Manager           | 🟡 Medium   | ⏳     | File I/O, encryption, Fernet            |
-| 06  | PIG Dice Game              | 🟡 Medium   | ⏳     | Random, game logic, loops               |
-| 07  | Madlibs Generator          | 🟡 Medium   | ⏳     | Strings, user input, formatting         |
-| 08  | Timed Math Challenge       | 🟡 Medium   | ⏳     | Time module, loops, scoring             |
-| 09  | Slot Machine               | 🟡 Medium   | ⏳     | Random, lists, game mechanics           |
-| 10  | Turtle Racing              | 🟡 Medium   | ⏳     | Turtle graphics, OOP basics             |
-| 11  | WPM Typing Test            | 🟡 Medium   | ⏳     | Curses, time, string comparison         |
-| 12  | Alarm Clock                | 🟢 Easy     | ⏳     | Datetime, sound, automation             |
-| 13  | Password Generator         | 🟢 Easy     | ⏳     | Random, strings, security logic         |
-| 14  | Shortest Path Finder       | 🔴 Advanced | ⏳     | Algorithms, BFS, graphs                 |
-| 15  | NBA Stats & Scores         | 🟡 Medium   | ⏳     | APIs, JSON, requests                    |
-| 16  | Currency Converter         | 🟡 Medium   | ⏳     | APIs, real-time data                    |
-| 17  | YouTube Video Downloader   | 🟡 Medium   | ⏳     | Libraries, automation                   |
-| 18  | Automated File Backup      | 🟡 Medium   | ⏳     | OS module, automation, shutil           |
-| 19  | Mastermind / 4 Color Match | 🔴 Advanced | ⏳     | Game logic, algorithms                  |
-| 20  | Aim Trainer                | 🔴 Advanced | ⏳     | Pygame, OOP, events                     |
-| 21  | Advanced Python Scripting  | 🔴 Advanced | ⏳     | Scripting, automation, real-world       |
+| 05  | Alarm Clock                | 🟢 Easy     | ⏳     | Datetime, sound, automation             |
+| 06  | Password Generator         | 🟢 Easy     | ⏳     | Random, strings, security logic         |
+| 07  | Password Manager           | 🟡 Medium   | ⏳     | File I/O, encryption, Fernet            |
+| 08  | PIG Dice Game              | 🟡 Medium   | ⏳     | Random, game logic, loops               |
+| 09  | Madlibs Generator          | 🟡 Medium   | ⏳     | Strings, user input, formatting         |
+| 10  | Timed Math Challenge       | 🟡 Medium   | ⏳     | Time module, loops, scoring             |
+| 11  | Slot Machine               | 🟡 Medium   | ⏳     | Random, lists, game mechanics           |
+| 12  | Turtle Racing              | 🟡 Medium   | ⏳     | Turtle graphics, OOP basics             |
+| 13  | WPM Typing Test            | 🟡 Medium   | ⏳     | Curses, time, string comparison         |
+| 14  | NBA Stats & Scores         | 🟡 Medium   | ⏳     | APIs, JSON, requests                    |
+| 15  | Currency Converter         | 🟡 Medium   | ⏳     | APIs, real-time data                    |
+| 16  | YouTube Video Downloader   | 🟡 Medium   | ⏳     | Libraries, automation                   |
+| 17  | Automated File Backup      | 🟡 Medium   | ⏳     | OS module, automation, shutil           |
+| 18  | Mastermind / 4 Color Match | 🔴 Advanced | ⏳     | Game logic, algorithms                  |
+| 19  | Aim Trainer                | 🔴 Advanced | ⏳     | Pygame, OOP, events                     |
+| 20  | Advanced Python Scripting  | 🔴 Advanced | ⏳     | Scripting, automation, real-world       |
+| 21  | Shortest Path Finder       | 🔴 Advanced | ⏳     | Algorithms, BFS, graphs                 |
 
 **Legend:** ✅ Done · ⏳ In Progress · 🔒 Not Started Yet
 
