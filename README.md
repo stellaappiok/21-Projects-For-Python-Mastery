@@ -1,7 +1,5 @@
 # 🐍 Python Mastery Journey — 21 Projects in 21 Days
 
-> _From beginner to builder — one project at a time._
-
 ![Progress](https://img.shields.io/badge/Projects%20Completed-3%2F21-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
