@@ -1,6 +1,6 @@
 # 🐍 Python Mastery Journey — 21 Projects in 21 Days
 
-![Progress](https://img.shields.io/badge/Projects%20Completed-3%2F21-red?style=flat)
+![Progress](https://img.shields.io/badge/Projects%20Completed-4%2F21-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/appiokstella/21-Projects-For-Python-Mastery?style=flat)
@@ -30,7 +30,7 @@ This repo is a public commitment to mastering Python through projects the only w
 | 01  | Quiz Game                  | 🟢 Easy     | ✅     | Functions, lists, loops                 |
 | 02  | Number Guessing Game       | 🟢 Easy     | ✅     | Random, conditionals, while loops       |
 | 03  | Rock Paper Scissors        | 🟢 Easy     | ✅     | Functions, user input, logic            |
-| 04  | Choose Your Own Adventure  | 🟢 Easy     | ⏳     | Nested conditionals, storytelling logic |
+| 04  | Choose Your Own Adventure  | 🟢 Easy     | ✅     | Nested conditionals, storytelling logic |
 | 05  | Alarm Clock                | 🟢 Easy     | ⏳     | Datetime, sound, automation             |
 | 06  | Password Generator         | 🟢 Easy     | ⏳     | Random, strings, security logic         |
 | 07  | Password Manager           | 🟡 Medium   | ⏳     | File I/O, encryption, Fernet            |
@@ -91,10 +91,10 @@ Every project folder has its own `README.md` with:
 
 | Day   | Date | Project             |
 | ----- | ---- | ------------------- | 
-| Day 1 | 29/05/26   | Quiz Game           | 
-| Day 2 | 30/05/26   | Number Guessing     | 
-| Day 3 | 31/05/26     | Rock Paper Scissors |
-| Day 4 |            | Choose Your Own Adventure | 
+| Day 1 | 30/05/26   | Quiz Game           | 
+| Day 2 | 31/05/26   | Number Guessing     | 
+| Day 3 | 01/06/26    | Rock Paper Scissors |
+| Day 4 |  02/06/26   | Choose Your Own Adventure | 
 | Day 5|              |  Alarm Clock        | 
 | Day 6 |             | Password Generator |
 | Day 7 |             | Password Manager    | 
