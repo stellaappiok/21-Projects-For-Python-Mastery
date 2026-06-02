@@ -10,7 +10,6 @@
 
 A hands-on Python learning journey built through **21 real projects** — from beginner games to advanced scripting and automation. Every project is written from scratch, documented with honest reflections, and pushed daily.
 
-This repo is inspired by **Tech With Tim's** 9-hour Python project series.
 This repo is inspired by Tech With Tim's 9-hour Python project series.  
 📺 Original video: https://www.youtube.com/watch?v=NpmFbWO6HPU&list=PPSV
 ---
