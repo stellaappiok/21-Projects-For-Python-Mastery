@@ -98,7 +98,7 @@ Every project folder has its own `README.md` with:
 | Day 3 | 01/06/26    | Rock Paper Scissors |
 | Day 4 |  02/06/26   | Choose Your Own Adventure | 
 | Day 5|              |  Alarm Clock        | 
-| Day 6 |             | Password Generator |
+| Day 6 |  03/06/26   | Password Generator |
 | Day 7 |             | Password Manager    | 
 | Day 8 |             | PIG Dice Game   | 
 | Day 9 |             |  Madlibs Generator |
