@@ -1,8 +1,6 @@
 import random
 import time
 
-from pyparsing import printables
-
 OPERATORS = ["+", "-", "*"]
 MIN_OPERAND = int(input("What is the minium operand? "))
 MAX_OPERAND = int(input("What is the maximum operand? "))
