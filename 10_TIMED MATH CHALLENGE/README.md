@@ -1,4 +1,4 @@
-# Project 08 — Timed Math Challenge
+# Project 10 — Timed Math Challenge
 
 ## What it does
 A terminal-based timed math quiz that generates random arithmetic problems
