@@ -1,6 +1,6 @@
 # 🐍 Python Mastery Journey — 21 Projects in 21 Days
 
-![Progress](https://img.shields.io/badge/Projects%20Completed-7%2F21-red?style=flat)
+![Progress](https://img.shields.io/badge/Projects%20Completed-8%2F21-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/appiokstella/21-Projects-For-Python-Mastery?style=flat)
@@ -39,7 +39,7 @@ This repo is a public commitment to mastering Python through projects the only w
 | 08  | PIG Dice Game              | 🟡 Medium   | ⏳     | Random, game logic, loops               |
 | 09  | Madlibs Generator          | 🟡 Medium   | ⏳     | Strings, user input, formatting         |
 | 10  | Timed Math Challenge       | 🟡 Medium   | ✅     | Time module, loops, scoring             |
-| 11  | Slot Machine               | 🟡 Medium   | ⏳     | Random, lists, game mechanics           |
+| 11  | Slot Machine               | 🟡 Medium   | ✅     | Random, lists, game mechanics           |
 | 12  | Turtle Racing              | 🟡 Medium   | ⏳     | Turtle graphics, OOP basics             |
 | 13  | WPM Typing Test            | 🟡 Medium   | 🔒     | Curses, time, string comparison         |
 | 14  | NBA Stats & Scores         | 🟡 Medium   | 🔒     | APIs, JSON, requests                    |
@@ -103,7 +103,7 @@ Every project folder has its own `README.md` with:
 | Day 8 |             | PIG Dice Game   | 
 | Day 9 |             |  Madlibs Generator |
 | Day 10 | 05/06/26    | Timed Math Challenge  | 
-| Day 11 |             |Slot Machine     | 
+| Day 11 |  07/06/26 |Slot Machine     | 
 | Day 12 |            | Turtle Racing |
 | Day 13 |            | WPM Typing Test  | 
 | Day 14 |              | NBA Stats & Scores  | 
