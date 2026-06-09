@@ -1,4 +1,4 @@
-# Project 08 — PIG Dice Game
+# Project 06 — PIG Dice Game
 
 ## What it does
 A multiplayer terminal dice game for 2 to 4 players. On each turn a player
