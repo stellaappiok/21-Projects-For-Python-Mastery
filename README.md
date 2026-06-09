@@ -1,6 +1,6 @@
 # 🐍 Python Mastery Journey — 21 Projects in 21 Days
 
-![Progress](https://img.shields.io/badge/Projects%20Completed-8%2F21-red?style=flat)
+![Progress](https://img.shields.io/badge/Projects%20Completed-9%2F21-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/appiokstella/21-Projects-For-Python-Mastery?style=flat)
@@ -36,7 +36,7 @@ This repo is a public commitment to mastering Python through projects the only w
 | 05  | Alarm Clock                | 🟢 Easy     | ⏳     | Datetime, sound, automation             |
 | 06  | Password Generator         | 🟢 Easy     | ✅     | Random, strings, security logic         |
 | 07  | Password Manager           | 🟡 Medium   | ✅     | File I/O, encryption, Fernet            |
-| 08  | PIG Dice Game              | 🟡 Medium   | ⏳     | Random, game logic, loops               |
+| 08  | PIG Dice Game              | 🟡 Medium   | ✅    | Random, game logic, loops               |
 | 09  | Madlibs Generator          | 🟡 Medium   | ⏳     | Strings, user input, formatting         |
 | 10  | Timed Math Challenge       | 🟡 Medium   | ✅     | Time module, loops, scoring             |
 | 11  | Slot Machine               | 🟡 Medium   | ✅     | Random, lists, game mechanics           |
@@ -100,7 +100,7 @@ Every project folder has its own `README.md` with:
 | Day 5|              |  Alarm Clock        | 
 | Day 6 |  03/06/26   | Password Generator |
 | Day 7 |  04/06/26     | Password Manager    | 
-| Day 8 |             | PIG Dice Game   | 
+| Day 8 |  09/06/26        | PIG Dice Game   | 
 | Day 9 |             |  Madlibs Generator |
 | Day 10 | 05/06/26    | Timed Math Challenge  | 
 | Day 11 |  07/06/26 |Slot Machine     | 
