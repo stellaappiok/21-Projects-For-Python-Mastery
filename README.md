@@ -102,9 +102,9 @@ Every project folder has its own `README.md` with:
 | Day 9  | 10/06/26 | Madlibs Generator          |
 | Day 10 | 05/06/26 | Timed Math Challenge       |
 | Day 11 | 07/06/26 | Slot Machine               |
-| Day 12 |          | Turtle Racing              |
+| Day 12 |    12/06/26| Turtle Racing              |
 | Day 13 |          | WPM Typing Test            |
-| Day 14 |          | NBA Stats & Scores         |
+| Day 14 |  14/06/26  | NBA Stats & Scores         |
 | Day 15 |          | Rock Paper Scissors        |
 | Day 16 |          | Quiz Game                  |
 | Day 17 |          | Number Guessing            |
