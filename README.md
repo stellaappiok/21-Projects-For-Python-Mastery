@@ -44,12 +44,12 @@ This repo is a public commitment to mastering Python through projects the only w
 | 13  | WPM Typing Test            | 🟡 Medium   | ✅     | Curses, time, string comparison         |
 | 14  | NBA Stats & Scores         | 🟡 Medium   | ✅     | JSON, requests                          |
 | 15  | Currency Converter         | 🟡 Medium   | ⌛     | APIs, real-time data                    |
-| 16  | YouTube Video Downloader   | 🟡 Medium   | 🔒     | Libraries, automation                   |
-| 17  | Automated File Backup      | 🟡 Medium   | 🔒     | OS module, automation, shutil           |
+| 16  | YouTube Video Downloader   | 🟡 Medium   | ⌛     | Libraries, automation                   |
+| 17  | Automated File Backup      | 🟡 Medium   | ⌛     | OS module, automation, shutil           |
 | 18  | Mastermind / 4 Color Match | 🔴 Advanced | 🔒     | Game logic, algorithms                  |
 | 19  | Aim Trainer                | 🔴 Advanced | ⌛     | Pygame, OOP, events                     |
 | 20  | Advanced Python Scripting  | 🔴 Advanced | ⌛     | Scripting, automation, real-world       |
-| 21  | Shortest Path Finder       | 🔴 Advanced | 🔒     | Algorithms, BFS, graphs                 |
+| 21  | Shortest Path Finder       | 🔴 Advanced | ⌛     | Algorithms, BFS, graphs                 |
 
 **Legend:** ✅ Done · ⏳ In Progress · 🔒 Not Started Yet
 
