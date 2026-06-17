@@ -1,7 +1,7 @@
 import requests
 from pprint import PrettyPrinter
 
-API_KEY = "7c54fbbb86b7503424053766"
+API_KEY = "ENTER YOUR API KEY HERE"
 
 printer = PrettyPrinter()
 
@@ -69,7 +69,9 @@ def main():
     print()
 
     while True:
-        command = input("Enter a command (q to quit): ").lower()
+        print("")
+        command = input(
+            "Enter one of the commands above or (q to quit): ").lower()
 
         if command == "q":
             break
