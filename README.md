@@ -43,7 +43,7 @@ This repo is a public commitment to mastering Python through projects the only w
 | 12  | Turtle Racing              | 🟡 Medium   | ✅     | Turtle graphics, OOP basics             |
 | 13  | WPM Typing Test            | 🟡 Medium   | ✅     | Curses, time, string comparison         |
 | 14  | NBA Stats & Scores         | 🟡 Medium   | ✅     | JSON, requests                          |
-| 15  | Currency Converter         | 🟡 Medium   | ⌛     | APIs, real-time data                    |
+| 15  | Currency Converter         | 🟡 Medium   | ✅     | APIs, real-time data                    |
 | 16  | YouTube Video Downloader   | 🟡 Medium   | ⌛     | Libraries, automation                   |
 | 17  | Automated File Backup      | 🟡 Medium   | ⌛     | OS module, automation, shutil           |
 | 18  | Mastermind / 4 Color Match | 🔴 Advanced | 🔒     | Game logic, algorithms                  |
@@ -105,7 +105,7 @@ Every project folder has its own `README.md` with:
 | Day 12 | 12/06/26 | Turtle Racing              |
 | Day 13 | 15/06/26 | WPM Typing Test            |
 | Day 14 | 14/06/26 | NBA Stats & Scores         |
-| Day 15 |          | Rock Paper Scissors        |
+| Day 15 | 17/06/26 | Currency Converter         |
 | Day 16 |          | Quiz Game                  |
 | Day 17 |          | Number Guessing            |
 | Day 18 |          | Mastermind / 4 Color Match |
