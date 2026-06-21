@@ -1,6 +1,6 @@
 # 🐍 Python Mastery Journey — 21 Projects in 21 Days
 
-![Progress](https://img.shields.io/badge/Projects%20Completed-17%2F21-red?style=flat)
+![Progress](https://img.shields.io/badge/Projects%20Completed-18%2F21-red?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/appiokstella/21-Projects-For-Python-Mastery?style=flat)
@@ -47,7 +47,7 @@ This repo is a public commitment to mastering Python through projects the only w
 | 16  | YouTube Video Downloader   | 🟡 Medium   | ✅     | Libraries, automation                   |
 | 17  | Automated File Backup      | 🟡 Medium   | ✅     | OS module, automation, shutil           |
 | 18  | Mastermind / 4 Color Match | 🔴 Advanced | 🔒     | Game logic, algorithms                  |
-| 19  | Aim Trainer                | 🔴 Advanced | ⌛     | Pygame, OOP, events                     |
+| 19  | Aim Trainer                | 🔴 Advanced | ✅     | Pygame, OOP, events                     |
 | 20  | Advanced Python Scripting  | 🔴 Advanced | ⌛     | Scripting, automation, real-world       |
 | 21  | Shortest Path Finder       | 🔴 Advanced | ⌛     | Algorithms, BFS, graphs                 |
 
@@ -108,7 +108,7 @@ Every project folder has its own `README.md` with:
 | Day 15 | 17/06/26 | Currency Converter         |
 | Day 16 | 18/06/26 | YouTube Video Downloader   |
 | Day 17 | 19/06/26 | Automated File Backup      |
-| Day 18 |          | Mastermind / 4 Color Match |
+| Day 18 | 19/06/26 | Mastermind / 4 Color Match |
 | Day 19 |          | Aim Trainer                |
 | Day 20 |          | Advanced Python Scripting  |
 | Day 21 |          | Shortest Path Finder       |
