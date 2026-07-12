@@ -1,0 +1,8 @@
+{
+    "gameNames": [
+        "Pong_Game",
+        "Snake_Game",
+        "Tic_Tac_Tak_Game"
+    ],
+    "numberOfGames": 3
+}

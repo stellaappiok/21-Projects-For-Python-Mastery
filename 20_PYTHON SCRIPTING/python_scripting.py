@@ -109,10 +109,12 @@ def process_games(source_folder, output_folder):
 
 
 def main():
-    current_directory = os.getcwd()
+    current_directory = os.path.dirname(os.path.abspath(__file__))
 
-    source_folder = os.path.join(current_directory, "games")
-    output_folder = os.path.join(current_directory, "output")
+    source_folder = os.path.join(
+        current_directory, "Games")
+    output_folder = os.path.join(
+        current_directory, "Output")
 
     # Automatically create folders
     os.makedirs(source_folder, exist_ok=True)
