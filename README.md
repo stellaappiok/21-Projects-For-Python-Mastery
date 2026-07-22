@@ -1,7 +1,7 @@
 # 🐍 Python Mastery Journey — 21 Projects in 21 Days
 
 ![Progress](https://img.shields.io/badge/Projects%20Completed-21%2F21-red?style=flat)
-![Status](https://img.shields.io/badge/Status-In%20Completed-green?style=flat)
+![Status](https://img.shields.io/badge/Status-%20Completed-green?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/appiokstella/21-Projects-For-Python-Mastery?style=flat)
 
